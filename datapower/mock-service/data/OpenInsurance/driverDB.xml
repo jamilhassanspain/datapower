@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<driverDB>
+   <driver>
+      <id>1</id>
+      <name>Ozair Sheikh</name>
+      <dob>19XX-01-01</dob>
+      <gender>male</gender>
+      <image>images/069714649.jpg</image>
+      <license>DL # 1234567 IL</license>
+      <doNotRemove>true</doNotRemove>
+   </driver>
+   <driver>
+      <id>2</id>
+      <name>Shiu-Fun Poon</name>
+      <dob>19XX-01-01</dob>
+      <gender>female</gender>
+      <image>images/1A8848897.jpg</image>
+      <license>DL # 1234567 IL</license>
+      <doNotRemove>true</doNotRemove>
+   </driver>
+   <driver>
+      <id>3</id>
+      <name>Jon Palgon</name>
+      <doNotRemove>true</doNotRemove>
+      <dob>19XX-01-01</dob>
+      <gender>male</gender>
+      <image>images/7A6904897.jpg</image>
+      <license>DL # 1234567 IL</license>
+   </driver>
+   <driver>
+      <id>4</id>
+      <name>Tony Ffrench</name>
+      <doNotRemove>true</doNotRemove>
+      <dob>19XX-01-01</dob>
+      <gender>male</gender>
+      <image>images/3D6766897.jpg</image>
+      <license>DL # 1234567 IL</license>
+   </driver>
+   <driver>
+      <id>5</id>
+      <name>Ken Hygh</name>
+      <doNotRemove>true</doNotRemove>
+      <dob>19XX-01-01</dob>
+      <gender>male</gender>
+      <image>images/959195897.jpg</image>
+      <license>DL # 1234567 IL</license>
+   </driver>
+   <driver>
+      <id>6</id>
+      <name>Robert Conti</name>
+      <doNotRemove>true</doNotRemove>
+      <dob>19XX-01-01</dob>
+      <gender>male</gender>
+      <image>images/3D6762897.jpg</image>
+      <license>DL # 1234567 IL</license>
+   </driver>
+<driver>
+      <id>7</id>
+      <name>Arif Siddiqui</name>
+      <doNotRemove>true</doNotRemove>
+      <dob>19XX-01-01</dob>
+      <gender>male</gender>
+      <image>images/photo-none.jpg</image>
+      <license>DL # 1234567 IL</license>
+   </driver>
+</driverDB>

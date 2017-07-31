@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressList>
+	<Address>
+		<details>
+			<city>Austin</city>
+			<state>TX</state>
+			<street>4941 Forest Avenue</street>
+			<zipCode>78746</zipCode>
+		</details>
+		<name>
+			<firstName>Dennis</firstName>
+			<lastName>Rivera</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Albuquerque</city>
+			<state>NM</state>
+			<street>1023 Walnut Avenue</street>
+			<zipCode>87116</zipCode>
+		</details>
+		<name>
+			<firstName>Steven</firstName>
+			<lastName>Lopez</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Oakland</city>
+			<state>CA</state>
+			<street>4357 Park Lane</street>
+			<zipCode>94619</zipCode>
+		</details>
+		<name>
+			<firstName>Amanda</firstName>
+			<lastName>Hughes</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Seattle</city>
+			<state>WA</state>
+			<street>424 North Drive</street>
+			<zipCode>98159</zipCode>
+		</details>
+		<name>
+			<firstName>Carl</firstName>
+			<lastName>King</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Antonio</city>
+			<state>TX</state>
+			<street>2575 Lake Road</street>
+			<zipCode>78204</zipCode>
+		</details>
+		<name>
+			<firstName>Susan</firstName>
+			<lastName>Perry</lastName>
+			<title>Mrs</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Phoenix</city>
+			<state>AZ</state>
+			<street>2378 Locust Lane</street>
+			<zipCode>85034</zipCode>
+		</details>
+		<name>
+			<firstName>Peter</firstName>
+			<lastName>Diaz</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Los Angeles</city>
+			<state>CA</state>
+			<street>3452 Johnson Avenue</street>
+			<zipCode>90078</zipCode>
+		</details>
+		<name>
+			<firstName>Anna</firstName>
+			<lastName>Edwards</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Jose</city>
+			<state>CA</state>
+			<street>1851 Hickory Lane</street>
+			<zipCode>95136</zipCode>
+		</details>
+		<name>
+			<firstName>Frances</firstName>
+			<lastName>Ross</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Austin</city>
+			<state>TX</state>
+			<street>2291 Second Boulevard</street>
+			<zipCode>78741</zipCode>
+		</details>
+		<name>
+			<firstName>Nicole</firstName>
+			<lastName>Turner</lastName>
+			<title>Mrs</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Phoenix</city>
+			<state>AZ</state>
+			<street>1319 Green Drive</street>
+			<zipCode>85051</zipCode>
+		</details>
+		<name>
+			<firstName>Rose</firstName>
+			<lastName>Johnson</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Austin</city>
+			<state>TX</state>
+			<street>4775 Locust Street</street>
+			<zipCode>78755</zipCode>
+		</details>
+		<name>
+			<firstName>Julia</firstName>
+			<lastName>Lee</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Fort Worth</city>
+			<state>TX</state>
+			<street>3440 Maple Road</street>
+			<zipCode>76122</zipCode>
+		</details>
+		<name>
+			<firstName>Robin</firstName>
+			<lastName>Price</lastName>
+			<title>Mrs</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>St. Louis</city>
+			<state>MO</state>
+			<street>3087 First Drive</street>
+			<zipCode>63228</zipCode>
+		</details>
+		<name>
+			<firstName>Adam</firstName>
+			<lastName>Thompson</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>El Paso</city>
+			<state>TX</state>
+			<street>3595 Oak Lane</street>
+			<zipCode>79904</zipCode>
+		</details>
+		<name>
+			<firstName>Amy</firstName>
+			<lastName>Martinez</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Los Angeles</city>
+			<state>CA</state>
+			<street>1323 Forest Court</street>
+			<zipCode>90042</zipCode>
+		</details>
+		<name>
+			<firstName>Todd</firstName>
+			<lastName>Harris</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Jose</city>
+			<state>CA</state>
+			<street>2971 Church Street</street>
+			<zipCode>95121</zipCode>
+		</details>
+		<name>
+			<firstName>Dennis</firstName>
+			<lastName>Henderson</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>El Paso</city>
+			<state>TX</state>
+			<street>2282 College Court</street>
+			<zipCode>79932</zipCode>
+		</details>
+		<name>
+			<firstName>Paul</firstName>
+			<lastName>Lopez</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Kansas City</city>
+			<state>MO</state>
+			<street>892 Walnut Court</street>
+			<zipCode>64141</zipCode>
+		</details>
+		<name>
+			<firstName>Jerry</firstName>
+			<lastName>Martin</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Seattle</city>
+			<state>WA</state>
+			<street>4133 Chestnut Drive</street>
+			<zipCode>98153</zipCode>
+		</details>
+		<name>
+			<firstName>Doris</firstName>
+			<lastName>Kelly</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Antonio</city>
+			<state>TX</state>
+			<street>225 South Avenue</street>
+			<zipCode>78255</zipCode>
+		</details>
+		<name>
+			<firstName>Matthew</firstName>
+			<lastName>Clark</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Oklahoma City</city>
+			<state>OK</state>
+			<street>2850 Franklin Court</street>
+			<zipCode>73120</zipCode>
+		</details>
+		<name>
+			<firstName>Julie</firstName>
+			<lastName>Clark</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Francisco</city>
+			<state>CA</state>
+			<street>2707 Lakeview Street</street>
+			<zipCode>94124</zipCode>
+		</details>
+		<name>
+			<firstName>Kathryn</firstName>
+			<lastName>Alexander</lastName>
+			<title>Mrs</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Albuquerque</city>
+			<state>NM</state>
+			<street>776 Sycamore Drive</street>
+			<zipCode>87120</zipCode>
+		</details>
+		<name>
+			<firstName>Gregory</firstName>
+			<lastName>Jackson</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Seattle</city>
+			<state>WA</state>
+			<street>1428 Washington Boulevard</street>
+			<zipCode>98114</zipCode>
+		</details>
+		<name>
+			<firstName>Cheryl</firstName>
+			<lastName>Peterson</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Denver</city>
+			<state>CO</state>
+			<street>4653 Wilson Street</street>
+			<zipCode>80205</zipCode>
+		</details>
+		<name>
+			<firstName>Judy</firstName>
+			<lastName>Lewis</lastName>
+			<title>Mrs</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Oklahoma City</city>
+			<state>OK</state>
+			<street>1752 Jackson Street</street>
+			<zipCode>73116</zipCode>
+		</details>
+		<name>
+			<firstName>Stephanie</firstName>
+			<lastName>Lopez</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>El Paso</city>
+			<state>TX</state>
+			<street>3258 Eleventh Avenue</street>
+			<zipCode>79906</zipCode>
+		</details>
+		<name>
+			<firstName>Melissa</firstName>
+			<lastName>Davis</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Diego</city>
+			<state>CA</state>
+			<street>1572 Dogwood Lane</street>
+			<zipCode>92290</zipCode>
+		</details>
+		<name>
+			<firstName>Diane</firstName>
+			<lastName>Richardson</lastName>
+			<title>Mrs</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Albuquerque</city>
+			<state>NM</state>
+			<street>1848 Lakeview Avenue</street>
+			<zipCode>87101</zipCode>
+		</details>
+		<name>
+			<firstName>Annie</firstName>
+			<lastName>Nelson</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Long Beach</city>
+			<state>CA</state>
+			<street>1992 South Road</street>
+			<zipCode>90807</zipCode>
+		</details>
+		<name>
+			<firstName>Brandon</firstName>
+			<lastName>Young</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Long Beach</city>
+			<state>CA</state>
+			<street>82 Miller Road</street>
+			<zipCode>90803</zipCode>
+		</details>
+		<name>
+			<firstName>Larry</firstName>
+			<lastName>Torres</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Indianapolis</city>
+			<state>IN</state>
+			<street>1422 Sunset Court</street>
+			<zipCode>46228</zipCode>
+		</details>
+		<name>
+			<firstName>Raymond</firstName>
+			<lastName>Phillips</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Dallas</city>
+			<state>TX</state>
+			<street>2772 Vine Drive</street>
+			<zipCode>75249</zipCode>
+		</details>
+		<name>
+			<firstName>Randy</firstName>
+			<lastName>Evans</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>St. Louis</city>
+			<state>MO</state>
+			<street>580 Fifth Boulevard</street>
+			<zipCode>63103</zipCode>
+		</details>
+		<name>
+			<firstName>Lisa</firstName>
+			<lastName>Chan</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Oklahoma City</city>
+			<state>OK</state>
+			<street>1182 Eigth Lane</street>
+			<zipCode>73105</zipCode>
+		</details>
+		<name>
+			<firstName>Jose</firstName>
+			<lastName>Jenkins</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Phoenix</city>
+			<state>AZ</state>
+			<street>4434 Elm Road</street>
+			<zipCode>85048</zipCode>
+		</details>
+		<name>
+			<firstName>Angela</firstName>
+			<lastName>Reed</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Kansas City</city>
+			<state>MO</state>
+			<street>4765 Hope Drive</street>
+			<zipCode>64102</zipCode>
+		</details>
+		<name>
+			<firstName>Mary</firstName>
+			<lastName>Martin</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>El Paso</city>
+			<state>TX</state>
+			<street>1136 North Court</street>
+			<zipCode>79916</zipCode>
+		</details>
+		<name>
+			<firstName>Jose</firstName>
+			<lastName>Barnes</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Denver</city>
+			<state>CO</state>
+			<street>762 Highland Avenue</street>
+			<zipCode>80215</zipCode>
+		</details>
+		<name>
+			<firstName>Lois</firstName>
+			<lastName>Price</lastName>
+			<title>Mrs</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Dallas</city>
+			<state>TX</state>
+			<street>3310 Center Lane</street>
+			<zipCode>75258</zipCode>
+		</details>
+		<name>
+			<firstName>Joan</firstName>
+			<lastName>Bell</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Tucson</city>
+			<state>AZ</state>
+			<street>3938 Woodland Road</street>
+			<zipCode>85709</zipCode>
+		</details>
+		<name>
+			<firstName>Benjamin</firstName>
+			<lastName>Campbell</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Long Beach</city>
+			<state>CA</state>
+			<street>2374 Elm Drive</street>
+			<zipCode>90806</zipCode>
+		</details>
+		<name>
+			<firstName>Chris</firstName>
+			<lastName>Rogers</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Dallas</city>
+			<state>TX</state>
+			<street>2333 Sycamore Court</street>
+			<zipCode>75209</zipCode>
+		</details>
+		<name>
+			<firstName>Alan</firstName>
+			<lastName>Wood</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>St. Louis</city>
+			<state>MO</state>
+			<street>2760 First Drive</street>
+			<zipCode>63232</zipCode>
+		</details>
+		<name>
+			<firstName>Carolyn</firstName>
+			<lastName>Diaz</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Jose</city>
+			<state>CA</state>
+			<street>1410 Cherry Road</street>
+			<zipCode>95138</zipCode>
+		</details>
+		<name>
+			<firstName>Donna</firstName>
+			<lastName>Howard</lastName>
+			<title>Mrs</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>Long Beach</city>
+			<state>CA</state>
+			<street>2105 Fourteenth Drive</street>
+			<zipCode>90808</zipCode>
+		</details>
+		<name>
+			<firstName>Scott</firstName>
+			<lastName>Mitchell</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Jose</city>
+			<state>CA</state>
+			<street>1855 Woodland Drive</street>
+			<zipCode>95142</zipCode>
+		</details>
+		<name>
+			<firstName>Mildred</firstName>
+			<lastName>Torres</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Diego</city>
+			<state>CA</state>
+			<street>711 Fifth Boulevard</street>
+			<zipCode>92227</zipCode>
+		</details>
+		<name>
+			<firstName>Kenneth</firstName>
+			<lastName>Alexander</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Diego</city>
+			<state>CA</state>
+			<street>2862 Davis Drive</street>
+			<zipCode>92254</zipCode>
+		</details>
+		<name>
+			<firstName>Ruth</firstName>
+			<lastName>Hughes</lastName>
+			<title>Ms</title>
+		</name>
+	</Address>
+	<Address>
+		<details>
+			<city>San Jose</city>
+			<state>CA</state>
+			<street>1373 East Lane</street>
+			<zipCode>95134</zipCode>
+		</details>
+		<name>
+			<firstName>Earl</firstName>
+			<lastName>Walker</lastName>
+			<title>Mr</title>
+		</name>
+	</Address>
+</AddressList>

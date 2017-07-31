@@ -1,0 +1,25 @@
+<services>
+	<service name="openInsurance">
+		<operation name="vehicle">
+			<name>vehicle</name>
+			<xpath>/*[local-name() ='vehicleDB']/*[local-name() ='id']</xpath>
+			<xpath-param>id</xpath-param>
+			<filename>local:///data/OpenInsurance/vehicleDB.xml</filename>
+			<latency>0</latency>
+		</operation>
+		<operation name="driver" remote="false" url="http://opendriver.mybluemix.net/drivers/">
+			<name>driver</name>
+			<xpath>/*[local-name() ='driverDB']/*[local-name() ='id']</xpath>
+			<xpath-param>id</xpath-param>
+			<filename>local:///data/OpenInsurance/driverDB.xml</filename>
+			<latency>0</latency>
+		</operation>
+		<operation name="flight" remote="false">
+			<name>flight</name>
+			<xpath>/*[local-name() ='flightDB']/*[local-name() ='id']</xpath>
+			<xpath-param>id</xpath-param>
+			<filename>local:///data/OpenFlight/flightDB.xml</filename>
+			<latency>0</latency>
+		</operation>
+	</service>
+</services>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicleImgDB>
+	<vehicle>
+		<id>A1234</id>
+		<image>images/car_ford_mustang.jpg</image>
+	</vehicle>
+	<vehicle>
+		<id>B1234</id>
+		<image>images/car_dodge_viper.jpg</image>
+	</vehicle>
+	<vehicle>
+		<id>C1234</id>
+		<image>images/car_monte_carlo.jpg</image>
+	</vehicle>
+</vehicleImgDB>

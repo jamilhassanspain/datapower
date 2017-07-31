@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicleDB>
+	<vehicle>
+		<id>A1234</id>
+		<image>images/car_ford_mustang.jpg</image>
+		<license>234-843</license>
+		<name>Ford Mustang Fastback</name>
+		<doNotRemove>true</doNotRemove>
+	</vehicle>
+	<vehicle>
+		<id>B1234</id>
+		<image>images/car_dodge_viper.jpg</image>
+		<license>923-841</license>
+		<name>Dodge Viper SRT10</name>
+		<doNotRemove>true</doNotRemove>
+	</vehicle>
+	<vehicle>
+		<id>C1234</id>
+		<image>images/car_monte_carlo.jpg</image>
+		<license>839-471</license>
+		<name>Chevrolet Monte Carlo</name>
+		<doNotRemove>true</doNotRemove>
+	</vehicle>
+</vehicleDB>
